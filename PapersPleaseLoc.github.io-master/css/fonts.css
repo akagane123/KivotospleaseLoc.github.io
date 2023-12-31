@@ -55,13 +55,13 @@ Fonts here are used by both the loc tool and the game.
 
 /*---- title -------------------------------------------------*/
 @font-face { font-family: 'title_tall'; src:url('../fonts/Galmuri14.ttf'); }
-.font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
+.font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px;letter-spacing: 5px; }
 
 @font-face { font-family: 'title_news'; src: url('../fonts/Galmuri14.ttf'); } 
-.font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
+.font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px;letter-spacing: 5px; }
 
 @font-face { font-family: 'title_thick'; src: url('../fonts/Galmuri14.ttf'); }
-.font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
+.font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px;letter-spacing: 5px; }
 
 /*---- ui -------------------------------------------------*/
 @font-face { font-family: 'ui_regular'; src: url('../fonts/Galmuri7.ttf'); }
