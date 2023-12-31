@@ -80,11 +80,11 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 @font-face { font-family: 'fallback'; src: url('../fonts/fallback.ttf'); }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small'; src: url('../fonts/53Veda-U--misaki_gothic.ttf'); }
+@font-face { font-family: 'small'; src: url('../fonts/Galmuri7.ttf'); }
 .font-small { font-family: 'small'; font-size: 8px; line-height: 8px;}
 
 /*---- generic serif -------------------------------------------------*/
-@font-face { font-family: 'title_serif'; src: url('../fonts/TNR-Bold.ttf'); } 
+@font-face { font-family: 'title_serif'; src: url('../fonts/Galmuri7.ttf'); } 
 .font-title_serif { font-family: 'title_serif'; font-size: 10px; line-height: 10px; }
 
 /*---- cursive -------------------------------------------------*/
@@ -92,7 +92,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- scribble -------------------------------------------------*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/sd_auto_pilot--BetinaScriptExtraCTT--nagurip.ttf'); }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/Galmuri14.ttf');  }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport countries -------------------------------------------------*/
