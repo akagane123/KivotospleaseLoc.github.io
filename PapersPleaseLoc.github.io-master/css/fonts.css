@@ -54,13 +54,13 @@ Fonts here are used by both the loc tool and the game.
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src:url('../fonts/Galmuri14.ttf'); }
+@font-face { font-family: 'title_tall'; src:url('../fonts/pfstardust.ttf'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px;letter-spacing: 5px; }
 
-@font-face { font-family: 'title_news'; src: url('../fonts/Galmuri14.ttf'); } 
+@font-face { font-family: 'title_news'; src: url('../fonts/pfstardust.ttf'); } 
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px;letter-spacing: 5px; }
 
-@font-face { font-family: 'title_thick'; src: url('../fonts/Galmuri14.ttf'); }
+@font-face { font-family: 'title_thick'; src: url('../fonts/pfstardust.ttf'); }
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px;letter-spacing: 5px; }
 
 /*---- ui -------------------------------------------------*/
@@ -92,7 +92,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- scribble -------------------------------------------------*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/Galmuri14.ttf');  }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/pfstardust.ttf');  }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport countries -------------------------------------------------*/
