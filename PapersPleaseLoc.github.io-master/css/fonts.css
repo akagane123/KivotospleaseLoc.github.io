@@ -36,40 +36,40 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/MiniKylie-U--misaki_gothic.ttf'); }
+@font-face { font-family: 'tiny'; src: url('../fonts/Galmuri7.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/AtariSmall-U--misaki_gothic--88Zen.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('../fonts/Galmuri7.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); }
+@font-face { font-family: 'small_harsh'; src: url('../fonts/Galmuri7.ttf'); }
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
-@font-face { font-family: 'regular'; src: url('../fonts/BMmini-U--88Zen--misaki_gothic.ttf'); }
+@font-face { font-family: 'regular'; src: url('../fonts/Galmuri7.ttf'); }
 .font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'regular_short'; src: url('../fonts/04B03-U--misaki_gothic.ttf'); }
+@font-face { font-family: 'regular_short'; src: url('../fonts/Galmuri7.ttf'); }
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src: url('../fonts/pixelplay--shnmk14.ttf'); }
+@font-face { font-family: 'title_tall'; src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_news'; src: url('../fonts/MotorolaScreentype-U--shnmk16b.ttf'); } 
+@font-face { font-family: 'title_news'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff'); } 
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_thick'; src: url('../fonts/ChixaDemiBold--shnmk12b.ttf'); }
+@font-face { font-family: 'title_thick'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff'); }
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
-@font-face { font-family: 'ui_regular'; src: url('../fonts/NotNokia-U--knj10b.ttf'); }
+@font-face { font-family: 'ui_regular'; src: url('../fonts/Galmuri7.ttf'); }
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('../fonts/Resource-U--knj10.ttf'); }
-.font-large { font-family: 'large'; font-size: 8px; line-height: 8px; }
+@font-face { font-family: 'large'; src: url('../fonts/Galmuri7.ttf'); }
+.font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /* 
 ----------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 
 /*---- generic serif -------------------------------------------------*/
 @font-face { font-family: 'title_serif'; src: url('../fonts/TNR-Bold.ttf'); } 
-.font-title_serif { font-family: 'title_serif'; font-size: 8px; line-height: 8px; }
+.font-title_serif { font-family: 'title_serif'; font-size: 10px; line-height: 10px; }
 
 /*---- cursive -------------------------------------------------*/
 @font-face { font-family: 'cursive'; src: url('../fonts/Bangalor-U--elisat10.ttf'); }
@@ -106,7 +106,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-press { font-family: 'press'; font-size: 22px; line-height: 22px; font-variation-settings: 'wght' 900; }
 
 @font-face { font-family: 'propaganda'; src: url('../fonts/PROPAGAN.ttf'); }
-.font-propaganda { font-family: 'propaganda'; font-size: 8px; line-height: 8px; }
+.font-propaganda { font-family: 'propaganda'; font-size: 10px; line-height: 10px; }
 
 @font-face { font-family: 'kid_writing'; src: url('../fonts/RightyUsesLeftHand.ttf'); }
 .font-kid_writing { font-family: 'kid_writing'; font-size: 16px; line-height: 16px; font-weight: bold; }
